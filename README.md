@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End eğitiminde oluştur
 
 Öncelikle projeyi clonlayın. 
 
-`https://github.com/kemalharun/kodluyoruzilkrepo.git``
+`https://github.com/kemalharun/kodluyoruzilkrepo.git`
 
 # Usage
 
@@ -18,7 +18,7 @@ Linux:
 
 # Contributing
 
-Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız
+Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 # Licence
 
